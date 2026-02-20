@@ -1,7 +1,15 @@
 ## Team ID-LTVIP2026TMIDS82933
 ### Project - Online Payments Fraud Detection using ML
 ### Team Members 1 Chaganti Karabhushan(22BFA05031)  2 K S Noor Ahamad (22BFA32044)    3 Manas Kumar Ravuri(22BFA05056) 
+---
 
+## 🔗 LINKS:
+
+* **Video link:** [Project Demo](https://1drv.ms/v/c/f66d8f6a0a2565a0/IQCz68Iv71o-Srtvu0Fb5YihAdB0v5AVFYov9k98R_FkFmo?e=YpaY15)
+* **datasetlink:** [Online Payments Fraud Detection Dataset](https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset)
+
+---
+   
 
 # 🛡️ Online Payments Fraud Detection using Machine Learning
 
@@ -223,3 +231,4 @@ pip install -r requirements.txt
 ## 📜 License
 
 This project is for educational purposes only.
+
